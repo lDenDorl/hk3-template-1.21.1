@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "hk3",
+	"version": "${version}",
+	"name": "hk3",
+	"description": "Чудовий опис під мод Hk3",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/hk3/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.hk3.Hk3"
+		],
+		"fabric-datagen": [
+			"com.hk3.Hk3DataGenerator"
+		],
+        "client": [
+          "com.hk3.Hk3Client"
+        ]
+	},
+	"mixins": [
+		"hk3.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
