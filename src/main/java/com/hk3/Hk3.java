@@ -1,5 +1,6 @@
 package com.hk3;
 
+import com.hk3.block.ModBlock;
 import com.hk3.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,6 @@ public class Hk3 implements ModInitializer {
     @Override
     public void onInitialize() {
         ModItems.registerModItems();
-
+        ModBlock.registerModBlock();
     }
 }
