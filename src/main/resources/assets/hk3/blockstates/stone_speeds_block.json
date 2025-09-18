@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "meed": "hk3:block/stone_speeds_block"
+      "model": "hk3:block/pink_garnet_block"
     }
   }
 }

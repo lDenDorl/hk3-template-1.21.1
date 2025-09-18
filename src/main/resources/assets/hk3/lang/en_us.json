@@ -1,4 +1,5 @@
 {
   "item.hk3.stone_speeds": "Stone Speeds",
-  "item.hk3.raw_stone_speeds": "Raw Stone Speeds"
+  "item.hk3.raw_stone_speeds": "Raw Stone Speeds",
+  "block.hk3.stone_speeds_block":"Stone Speeds Block"
 }
