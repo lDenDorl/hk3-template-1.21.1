@@ -1,6 +1,10 @@
 {
   "item.hk3.stone_speeds": "Stone Speeds",
   "item.hk3.raw_stone_speeds": "Raw Stone Speeds",
+
   "block.hk3.stone_speeds_block":"Stone Speeds Block",
-  "block.hk3.raw_stone_speeds_block":"Raw Stone Speeds Block"
+  "block.hk3.raw_stone_speeds_block":"Raw Stone Speeds Block",
+
+  "itemgroup.hk3.stone_speeds_items": "Stone Speeds Items",
+  "itemgroup.hk3.stone_speeds_blocks": "Stone Speeds Blocks"
 }
