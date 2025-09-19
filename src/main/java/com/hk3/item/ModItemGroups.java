@@ -28,6 +28,9 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModBlock.STONE_SPEEDS_BLOCK);
                         entries.add(ModBlock.RAW_STONE_SPEEDS_BLOCK);
+
+                        entries.add(ModBlock.STONE_SPEEDS_DEEPSLATE_ORE);
+                        entries.add(ModBlock.STONE_SPEEDS_ORE);
                     }).build());
 
 

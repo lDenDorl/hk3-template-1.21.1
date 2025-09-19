@@ -4,6 +4,8 @@
 
   "block.hk3.stone_speeds_block":"Блок Каменю Швидкості",
   "block.hk3.raw_stone_speeds_block":"Не оброблений Блок Каменю Швидкості",
+  "block.hk3.stone_speeds_ore":"Руда Каменя Швидкості",
+  "block.hk3.stone_speeds_deepslate_ore":"Діпслейт Руда Каменя Швидкості",
 
   "itemgroup.hk3.stone_speeds_items": "Камінь Швидкості Предмети",
   "itemgroup.hk3.stone_speeds_blocks": "Блоки Каменю Швидкості"

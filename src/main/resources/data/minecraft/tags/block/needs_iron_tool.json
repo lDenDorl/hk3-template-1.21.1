@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "hk3:raw_stone_speeds_block",
+    "hk3:stone_speeds_ore"
+  ]
+}

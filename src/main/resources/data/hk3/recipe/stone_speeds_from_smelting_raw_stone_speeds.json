@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "pink_garnet",
+  "ingredient": {
+    "item": "hk3:raw_stone_speeds"
+  },
+  "result": {
+    "id": "hk3:stone_speeds"
+  }
+}

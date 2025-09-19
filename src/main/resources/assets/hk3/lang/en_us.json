@@ -4,6 +4,8 @@
 
   "block.hk3.stone_speeds_block":"Stone Speeds Block",
   "block.hk3.raw_stone_speeds_block":"Raw Stone Speeds Block",
+  "block.hk3.stone_speeds_ore":"Stone Speeds Ore",
+  "block.hk3.stone_speeds_deepslate_ore":"Stone Speeds Ore",
 
   "itemgroup.hk3.stone_speeds_items": "Stone Speeds Items",
   "itemgroup.hk3.stone_speeds_blocks": "Stone Speeds Blocks"
