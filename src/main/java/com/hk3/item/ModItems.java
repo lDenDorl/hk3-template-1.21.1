@@ -19,7 +19,7 @@ public class ModItems {
 
 
     public static void registerModItems(){
-        Hk3.LOGGER.info("Регістрація Мод Предмету для " + Hk3.MOD_ID);
+        Hk3.LOGGER.info("Реєстрація Мод Предмету для " + Hk3.MOD_ID);
 
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(fabricItemGroupEntries -> {
